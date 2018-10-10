@@ -1,10 +1,8 @@
 ---
-title: wawa
+title: FireEffect
 date: 2018-10-02 20:42:34
 tags:
 ---
-<img src="smiley.gif" alt="Smiley face" height="42" width="42">
-
 <canvas id="myCanvas" width="" height=""></canvas>		
 <script type="text/javascript" src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>		
 <script type="text/javascript">
