@@ -2,10 +2,10 @@
 title: diluvion
 date: 2017-02-28 20:53:21
 tags:
-cover: https://leanote.com/api/file/getImage?fileId=58b572d8ab64410ab8006fab
+cover: /images/diluvion-cover.png
 ---
 
-![img](https://leanote.com/api/file/getImage?fileId=58b572d8ab64410ab8006fab)
+![img](/images/diluvion-cover.png)
 
 
 
