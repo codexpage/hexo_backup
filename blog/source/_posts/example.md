@@ -4,6 +4,16 @@ date: 2018-10-02 20:42:34
 tags:
 ---
 {% raw %}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D3ZNYDTDYW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D3ZNYDTDYW');
+</script>
+
 <canvas id="myCanvas" width="" height=""></canvas>		
 <script type="text/javascript">
 var c=document.getElementById("myCanvas");
